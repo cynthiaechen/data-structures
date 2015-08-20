@@ -25,7 +25,6 @@ var Stack = function(){
     for (var key in storage) {
       count++;
     }
-    console.log(storage);
     return count;
   };
 
